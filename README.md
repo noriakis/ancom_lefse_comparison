@@ -20,3 +20,4 @@ Genus only
 ComplexHeatmap (https://github.com/jokergoo)  
 firatheme (https://github.com/vankesteren/firatheme/)
 
+![volcano_plot](https://raw.githubusercontent.com/nrsat/ancom_lefse_comparison/master/volcano_plot.png)
