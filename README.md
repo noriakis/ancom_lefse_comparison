@@ -2,7 +2,7 @@
 Comparing ANCOM and LEfSe for differential abundance testing.
 
 ## Input data
-Sample input file provided in wikipedia of LEfSe (hmp_small_aerobiosis.txt, https://bitbucket.org/biobakery/biobakery/wiki/lefse). I removed class Mid_O2, thus comparing Low_O2 and High_O2.
+Sample input file (hmp_small_aerobiosis.txt) provided in wikipedia of LEfSe (https://bitbucket.org/biobakery/biobakery/wiki/lefse). I removed class Mid_O2, thus comparing Low_O2 and High_O2.
 
 ## LEfSe
 All level
