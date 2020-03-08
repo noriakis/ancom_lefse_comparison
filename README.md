@@ -20,7 +20,7 @@ run_lefse.py -s 0 --verbose 0 -l 2 --wilc 1 -b 100 -r lda lefse.lefse lefse.all.
 
 ## ANCOM
 Used R scripts for ANCOM (https://github.com/FrederickHuangLin/ANCOM).
-Modifed to reject null hypothesis by setting W threshold automatically.  
+Modifed to reject null hypothesis by setting W threshold automatically, although the author of original paper stated that they typically recommend the threshold of 0.7 according to https://forum.qiime2.org/t/ancom-low-w-taxa-identified-as-significant-issues-workaround-ancom2-code-instructions/6040.  
 
 - Genus only
 - Without covariate
