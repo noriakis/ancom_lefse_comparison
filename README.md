@@ -27,8 +27,12 @@ Modifed to reject null hypothesis by setting W threshold automatically.
 - With covariate (body_site)
 
 ## Visualization
+Genus that were significantly different between High_O2 and Low_O2 were compared by an upset plot.  
+
 ComplexHeatmap (https://github.com/jokergoo)  
 firatheme (https://github.com/vankesteren/firatheme/)
 
+- Volcano plot
 ![volcano_plot](https://raw.githubusercontent.com/nrsat/ancom_lefse_comparison/master/volcano_plot.png)
+- Upset plot
 ![upset_plot](https://raw.githubusercontent.com/nrsat/ancom_lefse_comparison/master/upset_plot.png)
